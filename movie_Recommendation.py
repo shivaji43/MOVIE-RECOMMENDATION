@@ -12,7 +12,7 @@ import tensorflow_hub as hub
 
 import os 
 import re
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
