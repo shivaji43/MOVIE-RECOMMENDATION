@@ -51,6 +51,7 @@ df.head()
 
 
 df= df[["original_title","overview"]]
+df= df[:5500]
 
 
 # In[78]:
