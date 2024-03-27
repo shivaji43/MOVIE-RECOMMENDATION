@@ -84,10 +84,10 @@ emb_2d= pca.fit_transform(embeddings)
 # In[82]:
 
 
-plt.figure(figsize=(11,6))
-plt.title('Embeddings')
-plt.scatter(emb_2d[:,0],emb_2d[:,1])
-plt.show()
+# plt.figure(figsize=(11,6))
+# plt.title('Embeddings')
+# plt.scatter(emb_2d[:,0],emb_2d[:,1])
+# plt.show()
 
 
 # In[83]:
