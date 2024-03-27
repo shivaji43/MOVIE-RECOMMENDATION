@@ -5,7 +5,7 @@ from movie_Recommendation import recommend  # Import your function from the Pyth
 def main():
     # Set title and sidebar
     st.title("Movie Recommender System")
-    st.sidebar.title("Options")
+    # st.sidebar.title("Options")
 
     # Get user input
     user_input = st.text_input("Enter user preferences (e.g., genre, actor, director):")
